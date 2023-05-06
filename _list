@@ -7,3 +7,6 @@ creating server site ..
 5.create a file name index.js [as we selected out entry point with that name]
 6. npm install express cors - run the command [install express and cors(middlewar) together]
 7.create a gitignore file and write node_modules(we dont want to send node modules to the github)
+8.start coding in index.js following the express js tutorial
+9.as we installed nodemon, so we can command nodemon index.js for watching our code 
+10. to collaborate with another server we must install cors(istalled already) and write a few code in the index file - we can find the code express js tutorial > resources > middlewar > cors
