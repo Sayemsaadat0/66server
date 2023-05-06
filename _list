@@ -3,4 +3,7 @@ creating server site ..
 1. go to express js website
 2. npm init -y  
 3.code . to open it in vc code 
-4.
+4.in the file package.json  write a script  "start" : "node index.js"
+5.create a file name index.js [as we selected out entry point with that name]
+6. npm install express cors - run the command [install express and cors(middlewar) together]
+7.create a gitignore file and write node_modules(we dont want to send node modules to the github)
